@@ -1,7 +1,12 @@
-# Angular 8 Boilerplate :fire:
+# Angular 8 Boilerplate :fire: 
 
-### Simple modular structure + Authentication baiscs + Http connector 
-
+### Bare minimum code to start with 
+<ol>
+    <h5><li>Modular structure with lazy loading</li></h5>
+    <h5><li>  Authentication basics (Token interceptor + Route guard)</li></h5>
+    <h5><li>Easy REST API integration</li></h5>
+    <h5><li>General Services </li></h5>
+</ol>
 <!-- <a href="" > 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 60px">
 <img src="http://cdn.embed.ly/providers/logos/codesandbox.png" width="30" />
