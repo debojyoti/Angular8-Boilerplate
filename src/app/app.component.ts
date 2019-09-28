@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular8-boilerplate';
+  constructor() {
+    console.log('123');
+    
+  }
 }
