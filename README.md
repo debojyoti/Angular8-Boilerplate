@@ -1,6 +1,6 @@
 # Angular 8 Boilerplate :fire:
 
-#### Simple modular structure + Authentication baiscs + Http connector 
+### Simple modular structure + Authentication baiscs + Http connector 
 
 <a href="" > 
 <div style="display: flex; flex-direction: row; align-items: center; margin-top: 60px">
