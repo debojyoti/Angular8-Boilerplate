@@ -20,6 +20,13 @@ export class HttpConnectorsService {
     )
   }
 
+  /**
+   * 
+   * General method to serve post requests
+   * 
+   * @param url Endpoint address
+   * @param params Parameters object
+   */
   public postRequest(url, params) : Observable<any> {
     return this.http.post(
       url,
